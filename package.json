@@ -1,0 +1,25 @@
+{
+  "name": "indexed-object-to-array",
+  "version": "1.0.0",
+  "description": "indexed-object-to-array is npm package for converting indexed keys objects into an array of objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/configtheworld/indexed-object-to-array.git"
+  },
+  "keywords": [
+    "indexed",
+    "object",
+    "convertion",
+    "array"
+  ],
+  "author": "configtheworld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/configtheworld/indexed-object-to-array/issues"
+  },
+  "homepage": "https://github.com/configtheworld/indexed-object-to-array#readme"
+}
